@@ -1,0 +1,8 @@
+﻿  ProjektJipp4_stack_arr.cpp
+C:\Users\Karol\source\repos\ProjektJipp4_stack_arr\ProjektJipp4_stack_arr\ProjektJipp4_stack_arr.cpp(39,13): warning C4477: „scanf_s”: ciąg formatu „%s” wymaga argumentu typu „unsigned int”, ale argument 2 ze zmienną liczbą argumentów ma typ „unsigned __int64”
+C:\Users\Karol\source\repos\ProjektJipp4_stack_arr\ProjektJipp4_stack_arr\ProjektJipp4_stack_arr.cpp(39,13): message : ten argument jest używany jako rozmiar bufora
+C:\Users\Karol\source\repos\ProjektJipp4_stack_arr\ProjektJipp4_stack_arr\ProjektJipp4_stack_arr.cpp(42,13): warning C4477: „scanf_s”: ciąg formatu „%s” wymaga argumentu typu „unsigned int”, ale argument 2 ze zmienną liczbą argumentów ma typ „unsigned __int64”
+C:\Users\Karol\source\repos\ProjektJipp4_stack_arr\ProjektJipp4_stack_arr\ProjektJipp4_stack_arr.cpp(42,13): message : ten argument jest używany jako rozmiar bufora
+C:\Users\Karol\source\repos\ProjektJipp4_stack_arr\ProjektJipp4_stack_arr\ProjektJipp4_stack_arr.cpp(78,13): warning C4477: „scanf_s”: ciąg formatu „%s” wymaga argumentu typu „unsigned int”, ale argument 2 ze zmienną liczbą argumentów ma typ „size_t”
+C:\Users\Karol\source\repos\ProjektJipp4_stack_arr\ProjektJipp4_stack_arr\ProjektJipp4_stack_arr.cpp(78,13): message : ten argument jest używany jako rozmiar bufora
+  ProjektJipp4_stack_arr.vcxproj -> C:\Users\Karol\source\repos\ProjektJipp4_stack_arr\x64\Debug\ProjektJipp4_stack_arr.exe

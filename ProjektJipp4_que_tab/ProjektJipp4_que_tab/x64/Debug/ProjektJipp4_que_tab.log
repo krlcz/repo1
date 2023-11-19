@@ -1,0 +1,8 @@
+﻿  ProjektJipp4_que_tab.cpp
+C:\Users\Karol\source\repos\ProjektJipp4_que_tab\ProjektJipp4_que_tab\ProjektJipp4_que_tab.cpp(40,13): warning C4477: „scanf_s”: ciąg formatu „%s” wymaga argumentu typu „unsigned int”, ale argument 2 ze zmienną liczbą argumentów ma typ „size_t”
+C:\Users\Karol\source\repos\ProjektJipp4_que_tab\ProjektJipp4_que_tab\ProjektJipp4_que_tab.cpp(40,13): message : ten argument jest używany jako rozmiar bufora
+C:\Users\Karol\source\repos\ProjektJipp4_que_tab\ProjektJipp4_que_tab\ProjektJipp4_que_tab.cpp(43,13): warning C4477: „scanf_s”: ciąg formatu „%s” wymaga argumentu typu „unsigned int”, ale argument 2 ze zmienną liczbą argumentów ma typ „size_t”
+C:\Users\Karol\source\repos\ProjektJipp4_que_tab\ProjektJipp4_que_tab\ProjektJipp4_que_tab.cpp(43,13): message : ten argument jest używany jako rozmiar bufora
+C:\Users\Karol\source\repos\ProjektJipp4_que_tab\ProjektJipp4_que_tab\ProjektJipp4_que_tab.cpp(77,13): warning C4477: „scanf_s”: ciąg formatu „%s” wymaga argumentu typu „unsigned int”, ale argument 2 ze zmienną liczbą argumentów ma typ „size_t”
+C:\Users\Karol\source\repos\ProjektJipp4_que_tab\ProjektJipp4_que_tab\ProjektJipp4_que_tab.cpp(77,13): message : ten argument jest używany jako rozmiar bufora
+  ProjektJipp4_que_tab.vcxproj -> C:\Users\Karol\source\repos\ProjektJipp4_que_tab\x64\Debug\ProjektJipp4_que_tab.exe

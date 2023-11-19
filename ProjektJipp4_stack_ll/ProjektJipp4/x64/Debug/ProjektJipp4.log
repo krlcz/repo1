@@ -1,0 +1,9 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: Katalog pośredni (x64\Debug\) zawiera pliki udostępnione z innego projektu (ProjektJipp4.vcxproj). Może to spowodować niepoprawne zachowanie podczas oczyszczania i ponownej kompilacji.
+  ProjektJipp4_stack_ll.cpp
+C:\Users\Karol\source\repos\ProjektJipp4_stack_ll\ProjektJipp4\ProjektJipp4_stack_ll.cpp(43,13): warning C4477: „scanf_s”: ciąg formatu „%s” wymaga argumentu typu „unsigned int”, ale argument 2 ze zmienną liczbą argumentów ma typ „size_t”
+C:\Users\Karol\source\repos\ProjektJipp4_stack_ll\ProjektJipp4\ProjektJipp4_stack_ll.cpp(43,13): message : ten argument jest używany jako rozmiar bufora
+C:\Users\Karol\source\repos\ProjektJipp4_stack_ll\ProjektJipp4\ProjektJipp4_stack_ll.cpp(46,13): warning C4477: „scanf_s”: ciąg formatu „%s” wymaga argumentu typu „unsigned int”, ale argument 2 ze zmienną liczbą argumentów ma typ „size_t”
+C:\Users\Karol\source\repos\ProjektJipp4_stack_ll\ProjektJipp4\ProjektJipp4_stack_ll.cpp(46,13): message : ten argument jest używany jako rozmiar bufora
+C:\Users\Karol\source\repos\ProjektJipp4_stack_ll\ProjektJipp4\ProjektJipp4_stack_ll.cpp(88,13): warning C4477: „scanf_s”: ciąg formatu „%s” wymaga argumentu typu „unsigned int”, ale argument 2 ze zmienną liczbą argumentów ma typ „size_t”
+C:\Users\Karol\source\repos\ProjektJipp4_stack_ll\ProjektJipp4\ProjektJipp4_stack_ll.cpp(88,13): message : ten argument jest używany jako rozmiar bufora
+  ProjektJipp4.vcxproj -> C:\Users\Karol\source\repos\ProjektJipp4_stack_ll\x64\Debug\ProjektJipp4_stack_ll.exe
